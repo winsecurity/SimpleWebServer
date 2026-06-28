@@ -16,8 +16,8 @@ ws.add_route("/health", "health.html");
 std::string ip = "127.0.0.1";
 ws.start(ip, 1234);
 ```
-![image not available](images/webserverinitialization.png)
+![image not available](img/webserverinitialization.png)
 
-![image not available](images/webserverdemo1.png)
-![image not available](images/webserverdemo2.png)
+![image not available](img/webserverdemo1.png)
+![image not available](img/webserverdemo2.png)
 
