@@ -1,5 +1,5 @@
 # SimpleWebServer
-made simple webserver to practice c++
+made simple webserver to practice c++, currently only accepts GET requests and serves html files
 
 # External string parsing library
 i have used pystring c++ project to parse http request.
